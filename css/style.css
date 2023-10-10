@@ -32,12 +32,11 @@ td, th {
 }
 
 #header h1 {
-<<<<<<< HEAD
-	position: absolute;
-	left: 5%;
-	top:40px;
-	font-family: "Nasalization V3";
-	color: #dc3329;
+  position: absolute;
+  left: 5%;
+  top:40px;
+  font-family: "Nasalization V3";
+  color: #dc3329;
 }
 
 #header a#nasa img {
@@ -58,7 +57,7 @@ td, th {
 	
 #planets {
   position: absolute;
-  right: 50%;
+  right: 5%;
   color: white;
 }
 
@@ -71,25 +70,25 @@ td, th {
 }
 
 .venus {
-	float: none;
-	border: 2px solid black;
+  float: none;
+  border: 2px solid black;
   width: 100px;
-	padding: 5px;
-	margin: 10px 10px 10px 10px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
 }
 
 .earth {
-	float: none;
-	border: 2px solid black;
+  float: none;
+  border: 2px solid black;
   width: 100px;
-	padding: 5px;
-	margin: 10px 10px 10px 10px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
 }
 
 .mars {
-	float: none;
-	border: 2px solid black;
+  float: none;
+  border: 2px solid black;
   width: 100px;
-	padding: 5px;
-	margin: 10px 10px 10px 10px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
 }
