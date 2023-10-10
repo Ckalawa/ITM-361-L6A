@@ -32,8 +32,8 @@ td, th {
 }
 
 #header h1 {
-	position: absolute;
-	left: 5%;
+	position: relative;
+	left: 1%;
 	top:40px;
 	font-family: "Nasalization V3";
 	color: #dc3329;
@@ -57,7 +57,7 @@ td, th {
 	
 #planets {
   position: absolute;
-  right: -33%;
+  right: 75%;
   color: white;
 }
 
