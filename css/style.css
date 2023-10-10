@@ -1,0 +1,88 @@
+td, th {
+	border: 5px outset white;
+	padding: 20px;
+	text-align: center;
+  }
+  body {
+  background-image: url("../media/stars.jpg");
+}
+
+@font-face {
+  font-family: "Nasalization V3";
+  src: url("https://db.onlinewebfonts.com/t/f88cd11de6d9aa48ddc14cf6181b309c.eot");
+  src: url("https://db.onlinewebfonts.com/t/f88cd11de6d9aa48ddc14cf6181b309c.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/f88cd11de6d9aa48ddc14cf6181b309c.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/f88cd11de6d9aa48ddc14cf6181b309c.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/f88cd11de6d9aa48ddc14cf6181b309c.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/f88cd11de6d9aa48ddc14cf6181b309c.svg#Nasalization V3")format("svg");
+}
+
+#menu {
+  margin: 0 auto;
+  position: relative;
+  margin-top: 40px;
+  border-radius: 12px 12px 12px 12px; 
+  color: white;
+}
+
+#header {
+  position: relative;
+  padding: 15px;
+}
+
+#header a#nasa img {
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  height: 100px;
+  width: 25%;
+}
+
+#header a#shuttle img {
+  position: absolute;
+  top: 20px;
+  right: 2px;
+  height: 120px;
+  width: 15%;
+}
+	
+#planets {
+  color: white;
+  margin: 0 auto;
+  display: block;
+  max-width: 1600px;
+}
+
+
+.mercury {
+  float: none;
+  border: 2px solid black;
+  width: 100px;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;
+}
+
+.venus {
+	float: none;
+	border: 2px solid black;
+  width: 100px;
+	padding: 5px;
+	margin: 10px 10px 10px 10px;
+}
+
+.earth {
+	float: none;
+	border: 2px solid black;
+  width: 100px;
+	padding: 5px;
+	margin: 10px 10px 10px 10px;
+}
+
+.mars {
+	float: none;
+	border: 2px solid black;
+  width: 100px;
+	padding: 5px;
+	margin: 10px 10px 10px 10px;
+}
+
